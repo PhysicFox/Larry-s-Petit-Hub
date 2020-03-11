@@ -1,4 +1,4 @@
-# Larry-s-Petit-Hub ##<拉里的私活仓库>
+# Larry-s-Petit-Hub ~<拉里的私活仓库>
 
 ### Intro:
 <table border="0">
@@ -11,7 +11,7 @@
       <p><b>C++菜狗 </b></p>
     </td>
     <td width="25%">
-      <img src="/114514.jpg" width="100%">      % 插入证件照代码
+      <img src="https://github.com/PhysicFox/Larry-s-Petit-Hub/blob/master/114514.jpg" width="100%">      
     </td>
   </tr>
 </table>
